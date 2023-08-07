@@ -111,10 +111,11 @@ h6 {
 
 .menu__item {
     padding: 10px;
+
 }
 
 .menu__link {
-    color: var(--grayishBlue);
+    color: black;
     text-decoration: none;
     font-size: 0.8em;
     font-weight: 400;
@@ -367,6 +368,7 @@ h6 {
 .container{
     margin: 10px;
     text-align: justify;
+    color: black;
 }
 .why-easybank {
     background: var(--lightGrayishBlue);
